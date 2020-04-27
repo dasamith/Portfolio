@@ -1,6 +1,13 @@
 body {
     margin: 10pxpx;
 }
+.background { 
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
 .Headername {
     display: inline-block;
